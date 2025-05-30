@@ -16,6 +16,25 @@ void Talk()
 
 int main()
 {
-	Talk();
+	int time = 1;
+	char choice;
+	choice = _getch();
+	printf("Do you want Talk?\ny/n >");
+	while (time)
+	{
+		if (choice == 'y')
+		{
+			Talk();
+		}
+		else if (choice == 'n')
+		{
+			printf("Um.. ok, See you next time :)\n");
+			time = 0;
+		}
+		else
+		{
+			printf("Sorry? again plese..\n>");
+		}
+	}
 	return 0;
 }
