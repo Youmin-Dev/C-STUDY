@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kimmi\\Desktop\\Code STUDY\\C learn\\C-Learn\\",
+  "WorkspaceRootPath": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1A44EB6-3EBE-4921-AE5B-34F51962C4DE}|2025.05.30\\2025.05.30.vcxproj|C:\\Users\\kimmi\\Desktop\\Code STUDY\\C learn\\C-Learn\\2025.05.30\\getch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{79177048-740F-45CD-B8BA-59ABAB6FAF21}|2025.05.31\\2025.05.31.vcxproj|C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.31\\star.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79177048-740F-45CD-B8BA-59ABAB6FAF21}|2025.05.31\\2025.05.31.vcxproj|solutionrelative:2025.05.31\\star.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A44EB6-3EBE-4921-AE5B-34F51962C4DE}|2025.05.30\\2025.05.30.vcxproj|C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.30\\getch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E1A44EB6-3EBE-4921-AE5B-34F51962C4DE}|2025.05.30\\2025.05.30.vcxproj|solutionrelative:2025.05.30\\getch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8899FE4B-DDF4-4A6D-A973-4BCC37860F3A}|2025.05.29\\2025.05.29.vcxproj|C:\\Users\\kimmi\\Desktop\\Code STUDY\\C learn\\C-Learn\\2025.05.29\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8899FE4B-DDF4-4A6D-A973-4BCC37860F3A}|2025.05.29\\2025.05.29.vcxproj|C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.29\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8899FE4B-DDF4-4A6D-A973-4BCC37860F3A}|2025.05.29\\2025.05.29.vcxproj|solutionrelative:2025.05.29\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,28 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "star.c",
+              "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.31\\star.c",
+              "RelativeDocumentMoniker": "2025.05.31\\star.c",
+              "ToolTip": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.31\\star.c*",
+              "RelativeToolTip": "2025.05.31\\star.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-31T04:22:42.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "getch.c",
-              "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\Code STUDY\\C learn\\C-Learn\\2025.05.30\\getch.c",
+              "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.30\\getch.c",
               "RelativeDocumentMoniker": "2025.05.30\\getch.c",
-              "ToolTip": "C:\\Users\\kimmi\\Desktop\\Code STUDY\\C learn\\C-Learn\\2025.05.30\\getch.c*",
-              "RelativeToolTip": "2025.05.30\\getch.c*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.30\\getch.c",
+              "RelativeToolTip": "2025.05.30\\getch.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-30T01:17:03.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\Code STUDY\\C learn\\C-Learn\\2025.05.29\\main.c",
+              "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.29\\main.c",
               "RelativeDocumentMoniker": "2025.05.29\\main.c",
-              "ToolTip": "C:\\Users\\kimmi\\Desktop\\Code STUDY\\C learn\\C-Learn\\2025.05.29\\main.c",
+              "ToolTip": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.29\\main.c",
               "RelativeToolTip": "2025.05.29\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
