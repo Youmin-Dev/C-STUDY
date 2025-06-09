@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B30DCB6-FE75-476C-9E0D-1D658BB157F5}|2025.06.09\\2025.06.09.vcxproj|C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.09\\typing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B30DCB6-FE75-476C-9E0D-1D658BB157F5}|2025.06.09\\2025.06.09.vcxproj|solutionrelative:2025.06.09\\typing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58E9BBA4-7065-4836-B6DC-E1BDCD210DD9}|2025.06.02\\2025.06.02.vcxproj|C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.02\\for.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{58E9BBA4-7065-4836-B6DC-E1BDCD210DD9}|2025.06.02\\2025.06.02.vcxproj|solutionrelative:2025.06.02\\for.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -42,19 +46,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "typing.c",
+              "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.09\\typing.c",
+              "RelativeDocumentMoniker": "2025.06.09\\typing.c",
+              "ToolTip": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.09\\typing.c",
+              "RelativeToolTip": "2025.06.09\\typing.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-09T03:59:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "for.c",
               "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.02\\for.c",
               "RelativeDocumentMoniker": "2025.06.02\\for.c",
-              "ToolTip": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.02\\for.c*",
-              "RelativeToolTip": "2025.06.02\\for.c*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.02\\for.c",
+              "RelativeToolTip": "2025.06.02\\for.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-02T11:28:37.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "number.c",
               "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.06.01\\number.c",
               "RelativeDocumentMoniker": "2025.06.01\\number.c",
@@ -74,12 +91,11 @@
               "RelativeToolTip": "2025.06.01\\number.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-01T11:31:47.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T11:31:47.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "star.c",
               "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.31\\star.c",
               "RelativeDocumentMoniker": "2025.05.31\\star.c",
@@ -91,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "getch.c",
               "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.30\\getch.c",
               "RelativeDocumentMoniker": "2025.05.30\\getch.c",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\kimmi\\Desktop\\C-STUDY\\C-Learn\\2025.05.29\\main.c",
               "RelativeDocumentMoniker": "2025.05.29\\main.c",
